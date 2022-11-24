@@ -1,4 +1,3 @@
-getgenv().autocollect = false
 while getgenv().autocollect == true do
 local args = {
     [1] = 1
